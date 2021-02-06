@@ -1,0 +1,15 @@
+{
+  "name": "Example_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Adrian Wojda",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
+}
